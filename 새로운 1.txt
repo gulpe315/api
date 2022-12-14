@@ -1,4 +1,0 @@
-Device 탭
-Feature 탭
-Workspace Info 탭
-Workspace Config 탭
